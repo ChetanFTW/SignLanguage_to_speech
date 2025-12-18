@@ -1,8 +1,6 @@
 ## **Overview**  
 This project, *Sign Language to Speech Conversion using Machine Learning*, enables the recognition of American Sign Language (ASL) gestures and converts them into spoken words or sentences. It is designed to bridge the communication gap for individuals who use sign language. 
 
-🔗[Video Demonstration on LinkedIn](https://www.linkedin.com/posts/tanmay-jivnani_capstoneproject-machinelearning-signlanguagerecognition-activity-7267174165739184128-VdZB?utm_source=share&utm_medium=member_desktop)
-
 
 ## 🎯 Features
 
@@ -16,20 +14,6 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
 - **Custom Dataset Creation**:  
   We built this project from the ground up by capturing and preparing our **custom dataset** of ASL gestures, covering A-Z alphabets, 0-9 digits, a gesture for **space**, and one for **full stop**.
   
-  ![ASL Characters](/ReadmeAssets/The-26-letters-and-10-digits-of-American-Sign-Language-ASL.png)
-  The 26 letters and 10 digits of American Sign Language (ASL)
-  
-  ![J](/ReadmeAssets/J.jpg)
-  Sign for J
-
-  ![Z](/ReadmeAssets/Z.jpg)
-  Sign for Z
-
-  ![SPACE](/ReadmeAssets/Space.jpg)
-  Sign for SPACE.
-  
-  ![Fullstop](/ReadmeAssets/Fullstop.jpg)
-  Sign for FULLSTOP.
 
 - **Pre-Trained Model Included**:  
   A **pre-trained model** is provided to allow users to immediately start using the system.  
@@ -114,14 +98,3 @@ We believe that collaboration is key to innovation. If you have suggestions for 
 
 ---
 
-## **Contributors**  
-1. **[Tanmay Jivnani](https://github.com/tanmayJivnani)**
-2. **[Shravani Verma](https://github.com/Shravknowscoding)**
-3. **[Aishwarya Shendkar](https://github.com/aishwaryaa2603)**
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-# SignLanguage_to_speech
